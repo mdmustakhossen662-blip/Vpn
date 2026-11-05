@@ -1,0 +1,6 @@
+{
+  "name": "BD VPN",
+  "description": "Production-grade Android VPN client with all servers free, direct release APK package download, WireGuard architecture, and cyberpunk dark UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
